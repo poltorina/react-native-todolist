@@ -1,7 +1,7 @@
 import { v4 as uuidv4 } from 'uuid';
 import React, { useState } from 'react';
 import 'react-native-get-random-values';
-import { FlatList, View } from 'react-native'
+import { FlatList, View } from 'react-native';
 
 import { TodoItem, AddTodoItem } from '../components/index';
 
